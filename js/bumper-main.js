@@ -9,12 +9,15 @@ define( function( require ) {
   'use strict';
 
   // modules
+  var ChainsScreen = require( 'CHAINS/chains/ChainsScreen' );
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
-  var BumperScreen = require( 'BUMPER/bumper/BumperScreen' );
+  var Tandem = require( 'TANDEM/Tandem' );
 
   // strings
   var bumperTitleString = require( 'string!BUMPER/bumper.title' );
+
+  var tandem = Tandem.rootTandem;
 
   var simOptions = {
     credits: {
@@ -29,7 +32,7 @@ define( function( require ) {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( bumperTitleString, [ new BumperScreen() ], simOptions );
+    var sim = new Sim( bumperTitleString, [ new ChainsScreen( tandem.createTandem( 'chainsScreen' ) ) ], simOptions );
     sim.start();
   } );
 } );

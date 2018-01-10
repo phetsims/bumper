@@ -29,6 +29,7 @@ require.config( {
     AXON: '../../axon/js',
     BRAND: '../../brand/' + phet.chipper.brand + '/js',
     BUMPER: '.',
+    CHAINS: '../../chains/js',
     DOT: '../../dot/js',
     JOIST: '../../joist/js',
     KITE: '../../kite/js',

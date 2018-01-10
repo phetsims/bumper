@@ -11,6 +11,9 @@
   },
   "phet": {
     "requirejsNamespace": "BUMPER",
+    "phetLibs": [
+      "chains"
+    ],
     "runnable": true,
     "supportedBrands": [
       "phet",
