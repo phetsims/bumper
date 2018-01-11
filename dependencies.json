@@ -1,5 +1,5 @@
 {
-  "comment": "# bumper 1.0.0-dev.17 Thu Jan 11 2018 15:10:37 GMT-0700 (Mountain Standard Time)",
+  "comment": "# bumper 1.0.0-dev.18 Thu Jan 11 2018 15:11:16 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
     "branch": "master"
@@ -13,7 +13,7 @@
     "branch": "master"
   },
   "bumper": {
-    "sha": "37c9e6833eb33047d06416838a50d097876135be",
+    "sha": "1463d855517e15dc180e2cfc04651d8b68cc6ac2",
     "branch": "master"
   },
   "chains": {
