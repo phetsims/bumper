@@ -1,11 +1,11 @@
 {
-  "comment": "# bumper 5.1.0-dev.5 Fri Jan 12 2018 14:42:42 GMT-0700 (Mountain Standard Time)",
+  "comment": "# bumper 6.1.0-dev.7 Tue Jan 16 2018 09:13:02 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
     "branch": "master"
   },
   "axon": {
-    "sha": "104f3dcfcb3741a7444b8a31bc4605692801ac25",
+    "sha": "a8c2e77044151202688d0837c9315ed95eb4f52a",
     "branch": "master"
   },
   "brand": {
@@ -13,7 +13,7 @@
     "branch": "master"
   },
   "bumper": {
-    "sha": "7fe33615842ea142a8e55bc99cd457daf4072470",
+    "sha": "b5213b42aa564c60737c910ddd531e9119f7c519",
     "branch": "master"
   },
   "chains": {
@@ -57,7 +57,7 @@
     "branch": "master"
   },
   "phet-io-wrapper-sonification": {
-    "sha": "9823abeac62ab4219896d77200a928206d4317a7",
+    "sha": "a8ed79cbc1e5dd4458394b5546ea189185b3ce7c",
     "branch": "master"
   },
   "phet-io-wrappers": {
