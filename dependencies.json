@@ -1,5 +1,5 @@
 {
-  "comment": "# bumper 9.1.0-dev.3 Tue Jan 16 2018 09:46:55 GMT-0700 (Mountain Standard Time)",
+  "comment": "# bumper 10.1.0-dev.1 Tue Jan 16 2018 11:44:42 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
     "branch": "master"
@@ -13,7 +13,7 @@
     "branch": "master"
   },
   "bumper": {
-    "sha": "265f72e60ff77f9833378162b61fe7fdf08315de",
+    "sha": "c227e6d6eacfb9d9e154f379923f537b294feee5",
     "branch": "master"
   },
   "chains": {
@@ -21,8 +21,8 @@
     "branch": "master"
   },
   "chipper": {
-    "sha": "e31f00a8e3899358dcf9d160d176e905515b9771",
-    "branch": "2.0"
+    "sha": "87aa9cc551ef12796014b315e05d9d411a2bfbdc",
+    "branch": "master"
   },
   "dot": {
     "sha": "ee4d0e25e4e21f798e94275623885a09f50e1831",
@@ -62,7 +62,7 @@
   },
   "phet-io-wrappers": {
     "sha": "7b8b1c04a5cb0cfaa26df758e2e971cd5a385965",
-    "branch": "chipper2.0"
+    "branch": "master"
   },
   "phetcommon": {
     "sha": "85d7262630dc9daca6d79e3453dde266dfa7c69b",
