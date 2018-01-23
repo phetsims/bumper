@@ -15,6 +15,7 @@
       "chains"
     ],
     "runnable": true,
+    "simulation": true,
     "supportedBrands": [
       "phet",
       "phet-io",
