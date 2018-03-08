@@ -1,5 +1,5 @@
 {
-  "comment": "# bumper 15.1.0-oneoffzao0mxynd8s.0 Thu Mar 08 2018 03:56:05 GMT-0700 (Mountain Standard Time)",
+  "comment": "# bumper 15.1.0-oneoffzao0mxynd8s.1 Thu Mar 08 2018 03:56:46 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
     "branch": "master"
@@ -13,7 +13,7 @@
     "branch": "master"
   },
   "bumper": {
-    "sha": "455e73cce69caed3e9fde9ece77e909b022f1c63",
+    "sha": "e8c6cf9f227645202fddf8861831d4d409cac6a6",
     "branch": "oneoffzao0mxynd8s"
   },
   "chains": {
