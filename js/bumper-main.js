@@ -5,17 +5,17 @@
  *
  * @author Jonathan Olson
  */
-define( function( require ) {
+define( require => {
   'use strict';
 
   // modules
-  var ChainsScreen = require( 'CHAINS/chains/ChainsScreen' );
-  var Sim = require( 'JOIST/Sim' );
-  var SimLauncher = require( 'JOIST/SimLauncher' );
-  var Tandem = require( 'TANDEM/Tandem' );
+  const ChainsScreen = require( 'CHAINS/chains/ChainsScreen' );
+  const Sim = require( 'JOIST/Sim' );
+  const SimLauncher = require( 'JOIST/SimLauncher' );
+  const Tandem = require( 'TANDEM/Tandem' );
 
   // strings
-  var bumperTitleString = require( 'string!BUMPER/bumper.title' );
+  const bumperTitleString = require( 'string!BUMPER/bumper.title' );
 
   var tandem = Tandem.rootTandem;
 
