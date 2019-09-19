@@ -17,9 +17,9 @@ define( require => {
   // strings
   const bumperTitleString = require( 'string!BUMPER/bumper.title' );
 
-  var tandem = Tandem.rootTandem;
+  const tandem = Tandem.rootTandem;
 
-  var simOptions = {
+  const simOptions = {
     credits: {
       //TODO fill in proper credits, all of these fields are optional, see joist.AboutDialog
       leadDesign: '',
@@ -32,7 +32,7 @@ define( require => {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( bumperTitleString, [ new ChainsScreen( tandem.createTandem( 'chainsScreen' ) ) ], simOptions );
+    const sim = new Sim( bumperTitleString, [ new ChainsScreen( tandem.createTandem( 'chainsScreen' ) ) ], simOptions );
     sim.start();
   } );
 } );
