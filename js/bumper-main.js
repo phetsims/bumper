@@ -17,7 +17,7 @@ define( require => {
   // strings
   const bumperTitleString = require( 'string!BUMPER/bumper.title' );
 
-  const tandem = Tandem.rootTandem;
+  const tandem = Tandem.ROOT;
 
   const simOptions = {
     credits: {
