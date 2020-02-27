@@ -5,28 +5,24 @@
  *
  * @author Jonathan Olson
  */
-define( require => {
-  'use strict';
 
-  // modules
-  const ChainsScreen = require( 'CHAINS/chains/ChainsScreen' );
-  const Sim = require( 'JOIST/Sim' );
-  const SimLauncher = require( 'JOIST/SimLauncher' );
-  const Tandem = require( 'TANDEM/Tandem' );
+import ChainsScreen from '../../chains/js/chains/ChainsScreen.js';
+import Sim from '../../joist/js/Sim.js';
+import SimLauncher from '../../joist/js/SimLauncher.js';
+import Tandem from '../../tandem/js/Tandem.js';
+import bumperStrings from './bumper-strings.js';
 
-  // strings
-  const bumperTitleString = require( 'string!BUMPER/bumper.title' );
+const bumperTitleString = bumperStrings.bumper.title;
 
-  const tandem = Tandem.ROOT;
+const tandem = Tandem.ROOT;
 
-  const simOptions = {
-    credits: {
-      softwareDevelopment: 'PhET Interactive Simulations'
-    }
-  };
+const simOptions = {
+  credits: {
+    softwareDevelopment: 'PhET Interactive Simulations'
+  }
+};
 
-  SimLauncher.launch( function() {
-    const sim = new Sim( bumperTitleString, [ new ChainsScreen( tandem.createTandem( 'chainsScreen' ) ) ], simOptions );
-    sim.start();
-  } );
+SimLauncher.launch( function() {
+  const sim = new Sim( bumperTitleString, [ new ChainsScreen( tandem.createTandem( 'chainsScreen' ) ) ], simOptions );
+  sim.start();
 } );

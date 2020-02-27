@@ -5,11 +5,7 @@
  *
  * @author Jonathan Olson
  */
-define( require => {
-  'use strict';
 
-  // modules
-  const Namespace = require( 'PHET_CORE/Namespace' );
+import Namespace from '../../phet-core/js/Namespace.js';
 
-  return new Namespace( 'bumper' );
-} );
+export default new Namespace( 'bumper' );
