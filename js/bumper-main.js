@@ -10,7 +10,7 @@ import ChainsScreen from '../../chains/js/chains/ChainsScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import SimLauncher from '../../joist/js/SimLauncher.js';
 import Tandem from '../../tandem/js/Tandem.js';
-import bumperStrings from './bumper-strings.js';
+import bumperStrings from './bumperStrings.js';
 
 const bumperTitleString = bumperStrings.bumper.title;
 
