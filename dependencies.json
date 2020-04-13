@@ -1,5 +1,5 @@
 {
-  "comment": "# bumper 18.1.0-dev.2 Mon Apr 13 2020 14:45:06 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# bumper 19.0.0-rc.0 Mon Apr 13 2020 14:52:00 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "a99a9ce9ee0774bf3ef509bf3e31ca7383f67478",
     "branch": "master"
@@ -13,8 +13,8 @@
     "branch": "master"
   },
   "bumper": {
-    "sha": "16a3ec7d3dc7c39e53bc7a92a1528b370b7e0c1c",
-    "branch": "master"
+    "sha": "3e56f3c492565e89d2b6e3b015dc9c60e2d74816",
+    "branch": "19.0"
   },
   "chains": {
     "sha": "4eddd4e5629204e21e639ce584e11711200d8051",
