@@ -23,7 +23,7 @@
     ],
     "ignoreForAutomatedMaintenanceReleases": true,
     "phet-io": {
-      "validation" : true
+      "validation": true
     }
   },
   "eslintConfig": {
