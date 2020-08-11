@@ -21,10 +21,7 @@
       "phet-io",
       "adapted-from-phet"
     ],
-    "ignoreForAutomatedMaintenanceReleases": true,
-    "phet-io": {
-      "validation": true
-    }
+    "ignoreForAutomatedMaintenanceReleases": true
   },
   "eslintConfig": {
     "extends": "../chipper/eslint/sim_eslintrc.js"
