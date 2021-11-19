@@ -3,11 +3,17 @@
 /**
  * Auto-generated from modulify, DO NOT manually modify.
  */
-
+/* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
 import bumper from './bumper.js';
 
-const bumperStrings = getStringModule( 'BUMPER' );
+type StringsType = {
+  'bumper': {
+    'title': string
+  }
+};
+
+const bumperStrings = getStringModule( 'BUMPER' ) as StringsType;
 
 bumper.register( 'bumperStrings', bumperStrings );
 
