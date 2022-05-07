@@ -9,7 +9,7 @@ import bumper from './bumper.js';
 
 type StringsType = {
   'bumper': {
-    'title': string
+    'title': string;
   }
 };
 
