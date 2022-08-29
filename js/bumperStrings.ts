@@ -11,7 +11,7 @@ import bumper from './bumper.js';
 type StringsType = {
   'bumper': {
     'title': string;
-    'titleProperty': TReadOnlyProperty<string>;
+    'titleStringProperty': TReadOnlyProperty<string>;
   }
 };
 
