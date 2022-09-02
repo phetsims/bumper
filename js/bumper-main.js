@@ -12,7 +12,7 @@ import simLauncher from '../../joist/js/simLauncher.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import bumperStrings from './bumperStrings.js';
 
-const bumperTitleString = bumperStrings.bumper.title;
+const bumperTitleStringProperty = bumperStrings.bumper.titleStringProperty;
 
 const tandem = Tandem.ROOT;
 
@@ -23,6 +23,6 @@ const simOptions = {
 };
 
 simLauncher.launch( () => {
-  const sim = new Sim( bumperTitleString, [ new ChainsScreen( tandem.createTandem( 'chainsScreen' ) ) ], simOptions );
+  const sim = new Sim( bumperTitleStringProperty, [ new ChainsScreen( tandem.createTandem( 'chainsScreen' ) ) ], simOptions );
   sim.start();
 } );
