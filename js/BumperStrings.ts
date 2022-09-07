@@ -15,8 +15,8 @@ type StringsType = {
   }
 };
 
-const bumperStrings = getStringModule( 'BUMPER' ) as StringsType;
+const BumperStrings = getStringModule( 'BUMPER' ) as StringsType;
 
-bumper.register( 'bumperStrings', bumperStrings );
+bumper.register( 'BumperStrings', BumperStrings );
 
-export default bumperStrings;
+export default BumperStrings;

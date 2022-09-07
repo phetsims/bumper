@@ -10,9 +10,9 @@ import ChainsScreen from '../../chains/js/chains/ChainsScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import Tandem from '../../tandem/js/Tandem.js';
-import bumperStrings from './bumperStrings.js';
+import BumperStrings from './BumperStrings.js';
 
-const bumperTitleStringProperty = bumperStrings.bumper.titleStringProperty;
+const bumperTitleStringProperty = BumperStrings.bumper.titleStringProperty;
 
 const tandem = Tandem.ROOT;
 
