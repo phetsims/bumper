@@ -1,6 +1,6 @@
 {
   "name": "bumper",
-  "version": "19.9.0",
+  "version": "19.9.1-rc.1",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
@@ -17,7 +17,8 @@
     "runnable": true,
     "simulation": true,
     "supportedBrands": [
-      "phet", "phet-io"
+      "phet",
+      "phet-io"
     ],
     "ignoreForAutomatedMaintenanceReleases": true,
     "supportsOutputJS": true
