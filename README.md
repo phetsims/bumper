@@ -1,15 +1,15 @@
 Bumper
 =============
-"Bumper" is an educational simulation in HTML5, by <a href="https://phet.colorado.edu/" target="_blank">PhET Interactive
-Simulations</a>
+"Bumper" is an educational simulation in HTML5, by <a href="https://phet.colorado.edu/" target="_blank">PhET
+Interactive Simulations</a>
 at the University of Colorado Boulder. For a description of this simulation, associated resources, and a link to the
 published version,
 <a href="https://phet.colorado.edu/en/simulation/bumper" target="_blank">visit the simulation's web page</a>.
 
 ### Try it!
 
-<a href="https://phet.colorado.edu/sims/html/bumper/latest/bumper_en.html" target="_blank">Click here to run "
-Bumper".</a>
+<a href="https://phet.colorado.edu/sims/html/bumper/latest/bumper_en.html" target="_blank">Click here to
+run "Bumper".</a>
 
 <a href="https://phet.colorado.edu/sims/html/bumper/latest/bumper_en.html" target="_blank">
 <img src="https://raw.githubusercontent.com/phetsims/bumper/main/assets/bumper-screenshot.png" alt="Screenshot" style="width: 400px;"/>
@@ -69,8 +69,8 @@ new or changed files.
 
 (4) In a new terminal/command prompt, start an http-server
 
-(5) Open in the browser: `http://localhost/bumper/bumper_en.html` (You will probably need to modify this URL based on
-your HTTP port and relative path.)
+(5) Open in the browser: `http://localhost/bumper/bumper_en.html` (You will probably need to modify this
+URL based on your HTTP port and relative path.)
 
 #### Optional: Build the simulation into a single file
 
@@ -80,7 +80,8 @@ your HTTP port and relative path.)
 like `>> WARNING404: Skipping potentially non-public dependency`, which indicate that non-public PhET-iO code is not
 being included in the build.
 
-(3) Open in the browser: `http://localhost/bumper/build/adapted-from-phet/bumper_en_adapted-from-phet.html` (You will
+(3) Open in the
+browser: `http://localhost/bumper/build/adapted-from-phet/bumper_en_adapted-from-phet.html` (You will
 probably need to modify this URL based on your HTTP port and relative path.)
 
 ### Get Involved
