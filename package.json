@@ -34,7 +34,7 @@
         ],
         "parserOptions": {
           "project": [
-            "../bumper/tsconfig.json"
+            "../chipper/tsconfig/eslint-all/tsconfig.json"
           ]
         }
       }
