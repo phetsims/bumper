@@ -1,5 +1,5 @@
 {
-  "comment": "# bumper 19.10.0-oneoffv0pujak01kq.0 Thu Oct 24 2024 14:37:11 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# bumper 19.10.0-oneoffv0pujak01kq.1 Thu Oct 24 2024 14:38:40 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "e518fe8db0a776a67e60e9c2110cd8411a21a007",
     "branch": "main"
@@ -13,7 +13,7 @@
     "branch": "main"
   },
   "bumper": {
-    "sha": "d2e98ba94182fb51e53d65a08370d43d1533abff",
+    "sha": "2de46d8385dac3216e36e1b1222db1d005e7b48e",
     "branch": "oneoffv0pujak01kq"
   },
   "chains": {
