@@ -1,5 +1,5 @@
 {
-  "comment": "# bumper 19.10.0-dev.3 Thu Oct 24 2024 14:51:08 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# bumper 20.10.0-rc.0 Fri Oct 25 2024 16:14:34 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "e518fe8db0a776a67e60e9c2110cd8411a21a007",
     "branch": "main"
@@ -13,15 +13,15 @@
     "branch": "main"
   },
   "bumper": {
-    "sha": "2792254b6ec374f75b55d46c0e02406f2c291902",
-    "branch": "main"
+    "sha": "098a108db27dca2a45dc091f3ddb19410981951c",
+    "branch": "20.10"
   },
   "chains": {
     "sha": "18e07e1017244c61603e66314b44e274332bdafe",
     "branch": "main"
   },
   "chipper": {
-    "sha": "f3392451c9902c802afd79fa9954ede12a0638d9",
+    "sha": "88ae8a4a7e34b7390c839c4e529ac4bd91c3b1b5",
     "branch": "main"
   },
   "dot": {
@@ -37,7 +37,7 @@
     "branch": "main"
   },
   "perennial-alias": {
-    "sha": "e81287f9ef173a7f18c09745636cfe2949e85fd1",
+    "sha": "228d3047637dc5fb6ab8c59c2d90695d1f7653b2",
     "branch": "main"
   },
   "phet-core": {
@@ -93,7 +93,7 @@
     "branch": "main"
   },
   "tandem": {
-    "sha": "c6a09fef3a42e9d6aad51a94243ec12ab4516a1c",
+    "sha": "5dbeaf7dd5b52ff49ab1aa5a81a08af12a1c3d51",
     "branch": "main"
   },
   "twixt": {
