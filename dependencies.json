@@ -1,5 +1,5 @@
 {
-  "comment": "# bumper 20.10.0-rc.1 Fri Oct 25 2024 16:15:37 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# bumper 20.10.0-rc.2 Fri Oct 25 2024 17:05:28 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "e518fe8db0a776a67e60e9c2110cd8411a21a007",
     "branch": "HEAD"
@@ -13,7 +13,7 @@
     "branch": "HEAD"
   },
   "bumper": {
-    "sha": "80c6ca5d01cad0baaca86d7d091aefeeadd7d4ee",
+    "sha": "5e1e7fba4ad5011ecc5d9aae9c354c3fac5ef232",
     "branch": "20.10"
   },
   "chains": {
