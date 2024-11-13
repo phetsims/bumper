@@ -1,5 +1,5 @@
 {
-  "comment": "# bumper 20.12.0-oneoffgw64og77407.0 Wed Nov 13 2024 16:20:51 GMT-0700 (Mountain Standard Time)",
+  "comment": "# bumper 20.12.0-oneoffgw64og77407.1 Wed Nov 13 2024 16:22:14 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "eceb789a9dbd8c79eecc8f356e815ff5454b52d4",
     "branch": "main"
@@ -13,7 +13,7 @@
     "branch": "main"
   },
   "bumper": {
-    "sha": "3acb15da9f37a416db5b6bbacec8daa5af57b5ab",
+    "sha": "2baf29490397fe4e7b9c507604d82c4038caa55e",
     "branch": "oneoffgw64og77407"
   },
   "chains": {
