@@ -17,9 +17,7 @@
     "runnable": true,
     "simulation": true,
     "supportedBrands": [
-      "phet",
-      "phet-io",
-      "adapted-from-phet"
+      "phet"
     ],
     "ignoreForAutomatedMaintenanceReleases": true,
     "supportsOutputJS": true,
