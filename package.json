@@ -23,6 +23,9 @@
     ],
     "ignoreForAutomatedMaintenanceReleases": true,
     "supportsOutputJS": true,
-    "published": true
+    "published": true,
+    "simFeatures": {
+      "supportsInteractiveDescription": true
+    }
   }
 }
