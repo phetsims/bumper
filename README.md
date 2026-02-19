@@ -80,9 +80,7 @@ browser: `http://localhost/bumper/build/adapted-from-phet/bumper_en_adapted-from
 
 ### Get Involved
 
-Contact us at our Google
-Group: <a href="http://groups.google.com/forum/#!forum/developing-interactive-simulations-in-html5" target="_blank">
-Developing Interactive Simulations in HTML5</a>
+Join us at the <a href="https://scenerystack.org/community/join/" target="_blank">SceneryStack Community</a>
 
 Help us improve, create a <a href="http://github.com/phetsims/bumper/issues/new" target="_blank">New Issue</a>
 
