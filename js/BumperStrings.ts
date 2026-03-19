@@ -20,6 +20,4 @@ type StringsType = {
 
 const BumperStrings = getStringModule( 'BUMPER' ) as StringsType;
 
-bumper.register( 'BumperStrings', BumperStrings );
-
 export default BumperStrings;
